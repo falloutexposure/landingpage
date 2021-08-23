@@ -3,4 +3,4 @@ type = "javascript"
 account_id = "812fe038b629cd06682a5a1ad59c427d"
 workers_dev = false
 zone_id = "3a8ea55e1e512b3e36252df9c33a3f55"
-routes = ["https://mushroomcloud.moe/*"]
+routes = ["https://mushroomcloud.moe/*", "https://mta-sts.mushroomcloud.moe/*"]
