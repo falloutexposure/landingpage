@@ -1,5 +1,0 @@
-version: STSv1
-mode: enforce
-mx: fwd1.porkbun.com
-mx: fwd2.porkbun.com
-max_age: 86400
