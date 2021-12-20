@@ -1,5 +1,6 @@
 version: STSv1
 mode: enforce
-mx: fwd1.porkbun.com
-mx: fwd2.porkbun.com
+mx: isaac.mx.cloudflare.net
+mx: linda.mx.cloudflare.net
+mx: amir.mx.cloudflare.net
 max_age: 86400
