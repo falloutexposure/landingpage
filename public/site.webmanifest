@@ -1,0 +1,20 @@
+{
+    "name": "Mushroom Cloud",
+    "short_name": "mushroomcloud",
+    "icons":
+    [
+        {
+            "src": "/favicon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/favicon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "theme_color": "#f4d762",
+    "background_color": "#f4d762",
+    "display": "standalone"
+}
